@@ -1,1 +1,1 @@
-# African Laboratory Analysis System (AFLAS)
+# African Disease Analysis and Monitoring System (ADAMS)
