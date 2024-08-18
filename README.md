@@ -1,1 +1,1 @@
-# disease-atlas-africa
+# African Laboratory Analysis System (AFLAS)
