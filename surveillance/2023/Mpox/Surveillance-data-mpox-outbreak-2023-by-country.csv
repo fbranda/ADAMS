@@ -1,121 +1,121 @@
-"source","EpiWeek","Date","Country","Lat","Lon","NewCases","NewDeaths","TotCases","TotDeaths","CFR"
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-1-23.pdf",1,"44932","Democratic Republic of the Congo",-3.9416119,11.0375552,42,6,42,6,14.2857142857143
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2,"44938","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,42,6,14.2857142857143
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2,"44938","Liberia",6.4095506,-12.0952512,2,0,2,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2,"44938","Nigeria",9.0067583,3.3761732,3,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",3,"44947","Democratic Republic of the Congo",-3.9416119,11.0375552,0,17,42,23,54.7619047619048
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",3,"44947","Liberia",6.4095506,-12.0952512,0,0,2,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",3,"44947","Nigeria",9.0067583,3.3761732,7,0,10,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",3,"44947","Ghana",7.9016162,-3.6732021,5,0,5,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",5,"44961","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,42,23,54.7619047619048
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",5,"44961","Liberia",6.4095506,-12.0952512,0,0,2,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",5,"44961","Nigeria",9.0067583,3.3761732,12,0,22,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",5,"44961","Ghana",7.9016162,-3.6732021,0,0,5,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",6,"44968","Democratic Republic of the Congo",-3.9416119,11.0375552,28,0,70,23,32.8571428571429
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",6,"44968","Liberia",6.4095506,-12.0952512,0,0,2,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",6,"44968","Nigeria",9.0067583,3.3761732,0,0,22,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",6,"44968","Ghana",7.9016162,-3.6732021,0,0,5,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",7,"44976","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,70,23,32.8571428571429
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",7,"44976","Liberia",6.4095506,-12.0952512,1,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",7,"44976","Nigeria",9.0067583,3.3761732,14,0,36,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",7,"44976","Ghana",7.9016162,-3.6732021,0,0,5,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",9,"44989","Democratic Republic of the Congo",-3.9416119,11.0375552,28,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",9,"44989","Liberia",6.4095506,-12.0952512,0,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",9,"44989","Nigeria",9.0067583,3.3761732,11,0,47,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",9,"44989","Ghana",7.9016162,-3.6732021,0,0,5,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",10,"44996","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",10,"44996","Liberia",6.4095506,-12.0952512,0,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",10,"44996","Nigeria",9.0067583,3.3761732,5,1,52,1,1.92307692307692
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",10,"44996","Ghana",7.9016162,-3.6732021,2,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",12,"45011","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",12,"45011","Liberia",6.4095506,-12.0952512,0,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",12,"45011","Nigeria",9.0067583,3.3761732,7,0,59,1,1.69491525423729
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",12,"45011","Ghana",7.9016162,-3.6732021,0,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",13,"45017","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",13,"45017","Liberia",6.4095506,-12.0952512,0,0,3,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",13,"45017","Nigeria",9.0067583,3.3761732,7,0,66,1,1.51515151515152
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",13,"45017","Ghana",7.9016162,-3.6732021,0,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",14,"45026","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",14,"45026","Liberia",6.4095506,-12.0952512,3,0,6,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",14,"45026","Nigeria",9.0067583,3.3761732,0,1,66,2,3.03030303030303
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",14,"45026","Ghana",7.9016162,-3.6732021,1,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",14,"45026","Central African Republic",6.6033895,15.6350802,12,1,12,1,8.33333333333333
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",15,"45039","Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",15,"45039","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",15,"45039","Ghana",7.9016162,-3.6732021,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",15,"45039","Liberia",6.4095506,-12.0952512,0,0,6,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",15,"45039","Nigeria",9.0067583,3.3761732,4,0,70,2,2.85714285714286
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",17,"45051","Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",17,"45051","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",17,"45051","Ghana",7.9016162,-3.6732021,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",17,"45051","Liberia",6.4095506,-12.0952512,0,0,6,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",17,"45051","Nigeria",9.0067583,3.3761732,2,0,72,2,2.77777777777778
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",18,"45059","Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",18,"45059","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",18,"45059","Ghana",7.9016162,-3.6732021,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",18,"45059","Liberia",6.4095506,-12.0952512,1,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",18,"45059","Nigeria",9.0067583,3.3761732,0,0,72,2,2.77777777777778
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",19,"45066","Central African Republic",6.6033895,15.6350802,2,0,14,1,7.14285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",19,"45066","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",19,"45066","Ghana",7.9016162,-3.6732021,1,0,9,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",19,"45066","Liberia",6.4095506,-12.0952512,0,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",19,"45066","Nigeria",9.0067583,3.3761732,2,0,74,2,2.7027027027027
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",23,"45095","Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",23,"45095","Democratic Republic of the Congo",-3.9416119,11.0375552,4291,220,4389,243,5.53656869446343
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",23,"45095","Ghana",7.9016162,-3.6732021,2,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",23,"45095","Liberia",6.4095506,-12.0952512,1,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",23,"45095","Nigeria",9.0067583,3.3761732,5,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Cameroon",7.3493756,6.9924753,23,1,23,1,4.34782608695652
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,4389,243,5.53656869446343
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Liberia",6.4095506,-12.0952512,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",25,"45122","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Cameroon",7.3493756,6.9924753,0,0,23,1,4.34782608695652
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,4389,243,5.53656869446343
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Liberia",6.4095506,-12.0952512,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",27,"45137","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Cameroon",7.3493756,6.9924753,100,0,123,1,0.813008130081301
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Congo Republic",-0.6803051,9.5823803,7,0,7,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Democratic Republic of the Congo",-3.9416119,11.0375552,2335,141,6724,384,5.71088637715645
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Liberia",6.4095506,-12.0952512,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",37,"04/09/2023 - 10/09/2023","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Cameroon",7.3493756,6.9924753,-100,-1,23,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Central African Republic",6.6033895,15.6350802,53,1,67,2,2.98507462686567
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Congo Republic",-0.6803051,9.5823803,11,2,18,2,11.1111111111111
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,6724,384,5.71088637715645
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Liberia",6.4095506,-12.0952512,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",42,"45212","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Cameroon",7.3493756,6.9924753,0,0,23,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Congo Republic",-0.6803051,9.5823803,0,0,18,2,11.1111111111111
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Democratic Republic of the Congo",-3.9416119,11.0375552,-6127,166,597,550,92.1273031825796
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Liberia",6.4095506,-12.0952512,0,0,8,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",43,"45221","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Cameroon",7.3493756,6.9924753,112,0,135,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Congo Republic",-0.6803051,9.5823803,57,0,75,2,2.66666666666667
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Democratic Republic of the Congo",-3.9416119,11.0375552,10028,0,10625,550,5.17647058823529
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Liberia",6.4095506,-12.0952512,1,0,9,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",45,"45236","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Cameroon",7.3493756,6.9924753,2,1,137,1,0.72992700729927
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Congo Republic",-0.6803051,9.5823803,15,0,90,2,2.22222222222222
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,10625,550,5.17647058823529
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Liberia",6.4095506,-12.0952512,0,0,9,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",47,"45248","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Cameroon",7.3493756,6.9924753,3,0,140,1,0.714285714285714
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Congo Republic",-0.6803051,9.5823803,5,0,95,2,2.10526315789474
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Democratic Republic of the Congo",-3.9416119,11.0375552,3575,165,14200,715,5.03521126760563
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Ghana",7.9016162,-3.6732021,0,0,11,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Liberia",6.4095506,-12.0952512,0,0,9,0,0
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",53,"45284","Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"source","DateOfIssue","Country","Lat","Lon","NewCases","NewDeaths","TotCases","TotDeaths","CFR"
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-1-23.pdf",2023-01-06,"Democratic Republic of the Congo",-3.9416119,11.0375552,42,6,42,6,14.2857142857143
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2023-01-12,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,42,6,14.2857142857143
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2023-01-12,"Liberia",6.4095506,-12.0952512,2,0,2,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-2-23.pdf",2023-01-12,"Nigeria",9.0067583,3.3761732,3,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",2023-01-21,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,17,42,23,54.7619047619048
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",2023-01-21,"Liberia",6.4095506,-12.0952512,0,0,2,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",2023-01-21,"Nigeria",9.0067583,3.3761732,7,0,10,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-3-23.pdf",2023-01-21,"Ghana",7.9016162,-3.6732021,5,0,5,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",2023-02-04,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,42,23,54.7619047619048
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",2023-02-04,"Liberia",6.4095506,-12.0952512,0,0,2,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",2023-02-04,"Nigeria",9.0067583,3.3761732,12,0,22,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-5-23.pdf",2023-02-04,"Ghana",7.9016162,-3.6732021,0,0,5,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",2023-02-11,"Democratic Republic of the Congo",-3.9416119,11.0375552,28,0,70,23,32.8571428571429
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",2023-02-11,"Liberia",6.4095506,-12.0952512,0,0,2,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",2023-02-11,"Nigeria",9.0067583,3.3761732,0,0,22,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-6-23.pdf",2023-02-11,"Ghana",7.9016162,-3.6732021,0,0,5,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",2023-02-19,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,70,23,32.8571428571429
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",2023-02-19,"Liberia",6.4095506,-12.0952512,1,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",2023-02-19,"Nigeria",9.0067583,3.3761732,14,0,36,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-7-23.pdf",2023-02-19,"Ghana",7.9016162,-3.6732021,0,0,5,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",2023-03-04,"Democratic Republic of the Congo",-3.9416119,11.0375552,28,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",2023-03-04,"Liberia",6.4095506,-12.0952512,0,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",2023-03-04,"Nigeria",9.0067583,3.3761732,11,0,47,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-9-23.pdf",2023-03-04,"Ghana",7.9016162,-3.6732021,0,0,5,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",2023-03-11,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",2023-03-11,"Liberia",6.4095506,-12.0952512,0,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",2023-03-11,"Nigeria",9.0067583,3.3761732,5,1,52,1,1.92307692307692
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-10-23.pdf",2023-03-11,"Ghana",7.9016162,-3.6732021,2,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",2023-03-26,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",2023-03-26,"Liberia",6.4095506,-12.0952512,0,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",2023-03-26,"Nigeria",9.0067583,3.3761732,7,0,59,1,1.69491525423729
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-12-23.pdf",2023-03-26,"Ghana",7.9016162,-3.6732021,0,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",2023-04-01,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",2023-04-01,"Liberia",6.4095506,-12.0952512,0,0,3,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",2023-04-01,"Nigeria",9.0067583,3.3761732,7,0,66,1,1.51515151515152
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-13-23.pdf",2023-04-01,"Ghana",7.9016162,-3.6732021,0,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",2023-04-10,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",2023-04-10,"Liberia",6.4095506,-12.0952512,3,0,6,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",2023-04-10,"Nigeria",9.0067583,3.3761732,0,1,66,2,3.03030303030303
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",2023-04-10,"Ghana",7.9016162,-3.6732021,1,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-14-23.pdf",2023-04-10,"Central African Republic",6.6033895,15.6350802,12,1,12,1,8.33333333333333
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",2023-04-23,"Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",2023-04-23,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",2023-04-23,"Ghana",7.9016162,-3.6732021,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",2023-04-23,"Liberia",6.4095506,-12.0952512,0,0,6,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-15-23.pdf",2023-04-23,"Nigeria",9.0067583,3.3761732,4,0,70,2,2.85714285714286
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",2023-05-05,"Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",2023-05-05,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",2023-05-05,"Ghana",7.9016162,-3.6732021,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",2023-05-05,"Liberia",6.4095506,-12.0952512,0,0,6,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-17-23.pdf",2023-05-05,"Nigeria",9.0067583,3.3761732,2,0,72,2,2.77777777777778
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",2023-05-13,"Central African Republic",6.6033895,15.6350802,0,0,12,1,8.33333333333333
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",2023-05-13,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",2023-05-13,"Ghana",7.9016162,-3.6732021,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",2023-05-13,"Liberia",6.4095506,-12.0952512,1,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-18-23.pdf",2023-05-13,"Nigeria",9.0067583,3.3761732,0,0,72,2,2.77777777777778
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",2023-05-20,"Central African Republic",6.6033895,15.6350802,2,0,14,1,7.14285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",2023-05-20,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,98,23,23.469387755102
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",2023-05-20,"Ghana",7.9016162,-3.6732021,1,0,9,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",2023-05-20,"Liberia",6.4095506,-12.0952512,0,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-19-23.pdf",2023-05-20,"Nigeria",9.0067583,3.3761732,2,0,74,2,2.7027027027027
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",2023-06-18,"Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",2023-06-18,"Democratic Republic of the Congo",-3.9416119,11.0375552,4291,220,4389,243,5.53656869446343
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",2023-06-18,"Ghana",7.9016162,-3.6732021,2,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",2023-06-18,"Liberia",6.4095506,-12.0952512,1,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-23-23.pdf",2023-06-18,"Nigeria",9.0067583,3.3761732,5,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Cameroon",7.3493756,6.9924753,23,1,23,1,4.34782608695652
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,4389,243,5.53656869446343
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Liberia",6.4095506,-12.0952512,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-25-23.pdf",2023-07-15,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Cameroon",7.3493756,6.9924753,0,0,23,1,4.34782608695652
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,4389,243,5.53656869446343
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Liberia",6.4095506,-12.0952512,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-27-23.pdf",2023-07-30,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Cameroon",7.3493756,6.9924753,100,0,123,1,0.813008130081301
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Central African Republic",6.6033895,15.6350802,0,0,14,1,7.14285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Congo Republic",-0.6803051,9.5823803,7,0,7,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Democratic Republic of the Congo",-3.9416119,11.0375552,2335,141,6724,384,5.71088637715645
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Liberia",6.4095506,-12.0952512,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-37-23.pdf",NA,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Cameroon",7.3493756,6.9924753,-100,-1,23,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Central African Republic",6.6033895,15.6350802,53,1,67,2,2.98507462686567
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Congo Republic",-0.6803051,9.5823803,11,2,18,2,11.1111111111111
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,6724,384,5.71088637715645
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Liberia",6.4095506,-12.0952512,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-42-23.pdf",2023-10-13,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Cameroon",7.3493756,6.9924753,0,0,23,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Congo Republic",-0.6803051,9.5823803,0,0,18,2,11.1111111111111
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Democratic Republic of the Congo",-3.9416119,11.0375552,-6127,166,597,550,92.1273031825796
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Liberia",6.4095506,-12.0952512,0,0,8,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-43-23.pdf",2023-10-22,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Cameroon",7.3493756,6.9924753,112,0,135,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Congo Republic",-0.6803051,9.5823803,57,0,75,2,2.66666666666667
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Democratic Republic of the Congo",-3.9416119,11.0375552,10028,0,10625,550,5.17647058823529
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Liberia",6.4095506,-12.0952512,1,0,9,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-45-23.pdf",2023-11-06,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Cameroon",7.3493756,6.9924753,2,1,137,1,0.72992700729927
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Congo Republic",-0.6803051,9.5823803,15,0,90,2,2.22222222222222
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Democratic Republic of the Congo",-3.9416119,11.0375552,0,0,10625,550,5.17647058823529
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Liberia",6.4095506,-12.0952512,0,0,9,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-47-23.pdf",2023-11-18,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Cameroon",7.3493756,6.9924753,3,0,140,1,0.714285714285714
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Central African Republic",6.6033895,15.6350802,0,0,67,2,2.98507462686567
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Congo Republic",-0.6803051,9.5823803,5,0,95,2,2.10526315789474
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Democratic Republic of the Congo",-3.9416119,11.0375552,3575,165,14200,715,5.03521126760563
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Ghana",7.9016162,-3.6732021,0,0,11,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Liberia",6.4095506,-12.0952512,0,0,9,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2023/Africa-CDC-53-23.pdf",2023-12-24,"Nigeria",9.0067583,3.3761732,0,0,79,2,2.53164556962025
