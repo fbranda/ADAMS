@@ -1,4 +1,4 @@
-"source","DateOfIssue","Country","Lat","Lon","NewSuspectedCases","TotSuspectedCases","NewProbableCases","TotProbableCases","NewConfirmedCases","TotConfirmedCases","NewConfirmedDeaths","TotConfirmedDeaths","CFR"
+"Source","DateOfIssue","Country","Latitude","Longitude","NewSuspectedCases","TotalSuspectedCases","NewProbableCases","TotalProbableCases","NewConfirmedCases","TotalConfirmedCases","NewConfirmedDeaths","TotalConfirmedDeaths","CFR"
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-6-24.pdf",2024-02-08,"Congo Republic",-0.6803051,9.5823803,0,0,0,0,2,2,0,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-6-24.pdf",2024-02-08,"Cameroon",7.3493756,6.9924753,6,6,0,0,2,2,1,1,12.5
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-6-24.pdf",2024-02-08,"Democratic Republic of the Congo",-3.9416119,11.0375552,943,943,0,0,224,224,96,96,8.22622107969152
