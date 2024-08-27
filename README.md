@@ -87,8 +87,6 @@ For reporting data anomalies or suggesting improvements, users can contact Franc
 
 ## Example
 
-Here is an example of how to calculate and visualize cluster risk:
-
 ```r
 # Load necessary libraries
 library(ggplot2)
