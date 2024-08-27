@@ -68,7 +68,7 @@ library(geodata)
 # Load data
 drc_provinces <- gadm(country = "COD", level = 1, path = tempdir())
 drc_provinces_sf <- st_as_sf(drc_provinces)
-map_for_mpox <- read_csv("https://raw.githubusercontent.com/fbranda/ADAMS/main/surveillance/2024/Mpox/Surveillance_data_mpox_outbreak_DRC_2024_by_province.csv")
+map_for_mpox <- read_csv("https://raw.githubusercontent.com/fbranda/ADAMS/main/surveillance/2024/Mpox/DRC/latest-DRC-by-province.csv")
 
 #Prepare data
 drc <- merge(drc_provinces_sf, map_for_mpox, by.x = "NAME_1", by.y = "Province")
