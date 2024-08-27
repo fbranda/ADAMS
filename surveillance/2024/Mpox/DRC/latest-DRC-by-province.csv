@@ -1,4 +1,4 @@
-"Source","Province","SuspectedCases","ConfirmedCases","TotalCases","Deaths","CFR","population"
+"Source","Province","TotalSuspectedCases","TotalConfirmedCases","TotalCases","TotalDeaths","CFR","Population"
 "https://github.com/fbranda/ADAMS/blob/main/bulletins/SITREP/Mpox/SITREP_Journalier_Mpox_RDC_22_08_2024_.pdf","Bas-Uele",92,4,96,0,"0.0",1093845
 "https://github.com/fbranda/ADAMS/blob/main/bulletins/SITREP/Mpox/SITREP_Journalier_Mpox_RDC_22_08_2024_.pdf","Équateur",5885,758,6643,0,"0.0",1528000
 "https://github.com/fbranda/ADAMS/blob/main/bulletins/SITREP/Mpox/SITREP_Journalier_Mpox_RDC_22_08_2024_.pdf","Haut-Katanga",2,0,2,0,"0.0",4617000
