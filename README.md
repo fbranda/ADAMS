@@ -70,13 +70,13 @@ For reporting data anomalies or suggesting improvements, users can contact Franc
 ## Usage
 
 1. **Load Data**: Ensure you have the required datasets, including:
-   - Disease case data (CSV or other formats)
+   - Disease case data (CSV)
    - Shapefiles for geographical boundaries
 
 2. **Run Analysis**:
    - Load the datasets into R.
    - Perform data cleaning and transformation as needed.
-   - Calculate metrics such as incidence rates and cluster risk.
+   - Calculate metrics such as incidence rates and case fatality rate.
 
 3. **Generate Visualizations**:
    - Create visualizations using `ggplot2` for data analysis and risk assessment.
