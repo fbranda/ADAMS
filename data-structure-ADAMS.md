@@ -37,7 +37,7 @@
 | **TotalConfirmedCases**              | Total confirmed cases up to the date of publication of the bulletin | Numeric  | 500	|
 | **NewConfirmedDeaths**               | New deaths cases reported since the previous bulletin	  | Numeric | 2 	|
 | **TotalConfirmedDeaths**              | Total deaths cases up to the date of publication of the bulletin | Numeric  | 15	|
-| **Lethality**              | 'NewConfirmedDeaths'/'TotalSuspectedCases' | Numeric | 0.04	|
+| **Lethality**              | `NewConfirmedDeaths`/`TotalSuspectedCases` | Numeric | 0.04	|
 
 
 **Directory:**  surveillance/yyyy/Mpox/DRC (where yyyy is the year of monitoring)<br>
@@ -48,10 +48,10 @@
 | **Province**              | Name of the province where the cases were registered	 | Text | Bas-Uele   	|
 | **TotalSuspectedCases**  | Total suspected cases up to the date of publication of the bulletin | Numeric  | 5000	|
 | **TotalConfirmedCases**              | Total confirmed cases up to the date of publication of the bulletin | Numeric  | 500	|
-| **TotalCases**              | 'TotalSuspectedCases' + 'TotalConfirmedCases' | Numeric  | 5500	|
+| **TotalCases**              | `TotalSuspectedCases` + `TotalConfirmedCases` | Numeric  | 5500	|
 | **TotalCasesDeaths**              | Total deaths cases up to the date of publication of the bulletin | Numeric  | 15	|
-| **CFR**              | 'TotalConfirmedDeaths'/'TotalCases' | Numeric | 0.27	|
-| **Population**              | Official population per province (Source: https://www.investindrc.cd/fr/Provinces) | Numeric | 0.27	|
+| **CFR**              | `TotalConfirmedDeaths`/`TotalCases` | Numeric | 0.27	|
+| **Population**              | Official population by province (Source: https://www.investindrc.cd/fr/Provinces) | Numeric | 0.27	|
 
 
 
