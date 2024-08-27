@@ -73,7 +73,7 @@ map_for_mpox <- read_csv("https://raw.githubusercontent.com/fbranda/ADAMS/main/s
 #Prepare data
 drc <- merge(drc_provinces_sf, map_for_mpox, by.x = "NAME_1", by.y = "Province")
 drc <- drc %>%
-  mutate(case_rate = (TotalCases / population) * 100000)  
+  mutate(case_rate = (TotalCases / Population) * 100000)  
 
 #Prepare data for cases plot
 centroids <- st_centroid(drc)
@@ -91,7 +91,7 @@ ggplot(drc) +
 
 
 #Prepare data for cluster risk plot
-drc$IncidenceRate <- (drc$TotalCases / drc$population) * 100000
+drc$IncidenceRate <- (drc$TotalCases / drc$Population) * 100000
 drc$CFR <- (drc$Deaths / drc$TotalCases) * 100
 
 # Calculate descriptive statistics
