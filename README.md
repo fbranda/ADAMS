@@ -68,7 +68,7 @@ library(geodata)
 # Load data
 drc_provinces <- gadm(country = "COD", level = 1, path = tempdir())
 drc_provinces_sf <- st_as_sf(drc_provinces)
-map_for_mpox <- read_excel("https://raw.githubusercontent.com/fbranda/ADAMS/main/surveillance/2024/Mpox/Surveillance_data_mpox_outbreak_DRC_2024_by_province.csv")
+map_for_mpox <- read_csv("https://raw.githubusercontent.com/fbranda/ADAMS/main/surveillance/2024/Mpox/Surveillance_data_mpox_outbreak_DRC_2024_by_province.csv")
 
 #Prepare data
 drc <- merge(drc_provinces_sf, map_for_mpox, by.x = "NAME_1", by.y = "Province")
@@ -91,22 +91,38 @@ ggplot(drc) +
 
 
 #Prepare data for cluster risk plot
-drc$Incidence <- (drc$TotalCases / drc$population) * 100000
-drc$ClusterRisk <- drc$Incidence * (drc$ConfirmedCases / drc$TotalCases)
+drc$IncidenceRate <- (drc$TotalCases / drc$population) * 100000
+drc$CFR <- (drc$Deaths / drc$TotalCases) * 100
 
-# Plot the cluster risk map by province
+# Calculate descriptive statistics
+summary(drc$IncidenceRate)
+quantile(drc$IncidenceRate, probs = c(0, 0.25, 0.5, 0.75, 1))
 
+breaks <- c(-Inf, 1, 5, 10, 50, 100, 200, Inf)
+labels <- c("Very Low", "Low", "Moderate", "High", "Very High", "Extreme", "Outlier")
+
+drc <- drc %>%
+  mutate(RiskCategory = cut(IncidenceRate,
+                             breaks = breaks,
+                             labels = labels,
+                             right = FALSE))
+
+
+
+# Plot incidence rate map by province
 ggplot(drc) +
-  geom_sf(aes(fill = ClusterRisk)) +
-  scale_fill_gradient(low = "#FFDBBB", high = "darkred", name = "Cluster Risk") +
+  geom_sf(aes(fill = RiskCategory)) +
+  scale_fill_manual(values = c("Very Low" = "#D0F0C0", "Low" = "#B0E57C", "Moderate" = "#FFFF00", 
+                               "High" = "#FF7F50", "Very High" = "#FF4500", "Extreme" = "#FF0000", "Outlier" = "#8B0000"),
+                    name = "Risk Category") +
   geom_text(aes(x = X, y = Y, label = NAME_1), size = 3, color = "white", data = centroids, check_overlap = TRUE) +
   theme_minimal() +
-  ggtitle("Cluster Risk by Province in DRC") +
+  ggtitle("Disease Risk by Province in DRC") +
   theme(legend.position = "bottom")
 
 
 # Optional: display data in a table.
 drc %>%
-  arrange(desc(case_rate)) %>%
-  select(NAME_1, TotalCases, case_rate, ClusterRisk)
+  arrange(desc(RiskCategory)) %>%
+  select(NAME_1, TotalCases, IncidenceRate, RiskCategory)
 
