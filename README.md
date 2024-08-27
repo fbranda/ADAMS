@@ -12,6 +12,37 @@ The African Disease Analysis and Monitoring System (ADAMS) is a comprehensive to
 - **Trend Analysis**: Analyze trends over time to monitor the evolution of disease outbreaks.
 - **Reporting**: Generate detailed reports and visualizations for stakeholders.
 
+## Data collection and management
+ADAMS utilizes a structured approach to collect and manage disease outbreak data to ensure comprehensive and up-to-date analysis. Here’s an overview of how data is collected and processed:
+
+1. **Data Health Bulletins**: The system receives disease case data from various reporting mechanisms, including reports from authoritative health organizations such as the African Centers for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO). Data are typically provided in formats such as PDF. The ingestion process includes parsing and mapping the data to the ADAMS schema to ensure consistency (https://github.com/fbranda/ADAMS/blob/main/data-structure-ADAMS.md).
+
+2. **Geospatial data**: Administrative boundaries and geographic features are incorporated using shapefiles or GeoJSON formats. These files define the spatial extent of regions such as provinces or districts, allowing precise mapping of disease data. Geospatial data come from official geographic information system (GIS) databases and national mapping agencies.
+
+
+## Data processing pipeline
+1. **Data import and normalization**: Data import routines are implemented to handle various file formats and ensure normalization of data from different sources. The import process includes data validation checks to identify and correct anomalies, missing values, or format inconsistencies.
+
+2. **Data integration**: Case data are merged with geospatial data to align disease statistics with geographic boundaries. This process involves spatial joins and data enrichment, in which case counts are aggregated and linked to specific geographic regions.
+
+3. **Data cleaning and transformation**: A series of data cleaning steps are applied to remove duplicates, correct inaccuracies, and handle missing values. Data transformation routines are used to calculate derived metrics such as incidence rates and case fatality rates (CFRs). This involves normalizing case counts against population data and time periods.
+
+4. **Visualization**: Visualization components include interactive maps and graphs generated using libraries such as `ggplot2` and `sf` in R. Customized scripts and dashboards are developed to present data in an intuitive format, facilitating interpretation and decision making.
+
+5. **Risk analysis and assessment**: Advanced statistical methods and machine learning algorithms can be used to analyze disease trends and assess risk levels. Techniques include time series analysis, spatial clustering, and predictive modeling. 
+
+
+## Limitations and data considerations
+1. **Underreporting and data gaps**: Variability in reporting practices across regions can lead to incomplete datasets. 
+
+2. **Real-time data updates**: Continuous integration of new data is critical to maintain the relevance of the system. Automated workflows and scheduled data retrievals are used to update datasets and ensure the most up-to-date information is available.
+
+3. **Data accuracy and consistency**: To improve data accuracy, ADAMS implements cross-validation procedures in which data from multiple sources are compared and reconciled. Discrepancies are flagged for further review, and data consistency checks are performed to ensure reliable results.
+
+## Accessing and updating data
+For reporting data anomalies or suggesting improvements, users can contact Francesco Branda at francesco.branda.contact@gmail.com. Feedback is valuable for maintaining data accuracy and enhancing the functionality of ADAMS.
+
+
 ## Installation
 
 ### Prerequisites
