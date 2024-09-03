@@ -154,7 +154,7 @@
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Congo Republic",-0.6803051,9.5823803,-9,141,0,0,2,21,-1,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Cameroon",7.3493756,6.9924753,0,30,0,0,0,5,0,2,5.71428571428571
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Democratic Republic of the Congo",-3.9416119,11.0375552,582,16706,0,0,90,2961,22,575,2.92367925967356
-"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Central African Republic",6.6033895,15.6350802,NA,NA,0,0,5,40,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Central African Republic",6.6033895,15.6350802,NA,NA,0,0,5,45,0,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Liberia",6.4095506,-12.0952512,0,0,0,0,1,6,0,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"South Africa",-32.7021306,5.8497788,0,0,0,0,0,24,0,3,12.5
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Ghana",7.9016162,-3.6732021,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -165,3 +165,17 @@
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Kenya",0.1649291,3.2606433,0,0,0,0,1,2,0,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Uganda",1.3722029,29.6603748,0,0,0,0,1,3,0,0,0
 "https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-32-24.pdf",2024-08-23,"Gabon",-0.9172606,8.8313659,0,0,0,0,1,1,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Congo Republic",-0.6803051,9.5823803,13,154,0,0,0,21,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Cameroon",7.3493756,6.9924753,4,34,0,0,0,5,0,2,5.12820512820513
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Democratic Republic of the Congo",-3.9416119,11.0375552,1095,17801,0,0,1838,4799,35,610,2.69911504424779
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Central African Republic",6.6033895,15.6350802,NA,NA,0,0,3,48,1,1,2.08333333333333
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Liberia",6.4095506,-12.0952512,0,0,0,0,0,6,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"South Africa",-32.7021306,5.8497788,0,0,0,0,0,24,0,3,12.5
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Ghana",7.9016162,-3.6732021,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Nigeria",9.0067583,3.3761732,0,0,0,0,1,40,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Burundi",-3.3835504,27.4217525,236,748,0,0,91,281,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Rwanda",-1.9403938,2.85606644,0,0,0,0,0,4,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Cote d'Ivoire",7.4641129,-8.1903493,0,0,0,0,0,28,0,1,3.57142857142857
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Kenya",0.1649291,3.2606433,0,0,0,0,2,4,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Uganda",1.3722029,29.6603748,0,0,0,0,1,4,0,0,0
+"https://github.com/fbranda/disease-atlas-africa/blob/main/bulletins/2024/Africa-CDC-33-24.pdf",2024-08-31,"Gabon",-0.9172606,8.8313659,0,0,0,0,0,1,0,0,0
