@@ -18,6 +18,9 @@
 | **TotalProbableCases**             | Total probable cases up to the date of publication of the bulletin | Numeric  | 100	|
 | **NewConfirmedCases**             | New confirmed cases reported since the previous bulletin	  | Numeric | 200 	|
 | **TotalConfirmedCases**              | Total confirmed cases up to the date of publication of the bulletin | Numeric  | 500	|
+| **TotalActiveCases**              | Total active confirmed cases at the date of publication	 | Numeric  | 385	|
+| **NewRecoveredCases**              | New recovered cases since the previous bulletin	 | Numeric  | 30	|
+| **TotalRecoveredCases**              | Total recovered cases up to the date of publication	 | Numeric  | 100	|
 | **NewConfirmedDeaths**               | New deaths cases reported since the previous bulletin	  | Numeric | 2 	|
 | **TotalConfirmedDeaths**              | Total deaths cases up to the date of publication of the bulletin | Numeric  | 15	|
 | **CFR**              | Case fatality rate | Numeric | 8.0	|
