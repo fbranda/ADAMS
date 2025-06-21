@@ -43,6 +43,17 @@ ADAMS utilizes a structured approach to collect and manage disease outbreak data
 For reporting data anomalies or suggesting improvements, users can contact Francesco Branda at francesco.branda.contact@gmail.com. Feedback is valuable for maintaining data accuracy and enhancing the functionality of ADAMS.
 
 
+## Disease-specific data sources
+The ADAMS system currently includes structured data on the following outbreaks:
+
+- [Ebola Virus Disease](https://github.com/fbranda/ebola)
+
+- [Lassa Fever](https://github.com/fbranda/lassa-fever)
+  
+- [Mpox](https://github.com/fbranda/ADAMS/tree/main/surveillance/2025/Mpox/sierra-leone)
+
+
+
 ## Installation
 
 ### Prerequisites
